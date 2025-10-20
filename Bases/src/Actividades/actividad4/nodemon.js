@@ -1,0 +1,1 @@
+console.log("Aplicaion ejecutandose con nodemon");

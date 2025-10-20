@@ -1,0 +1,18 @@
+{
+  "name": "02-base",
+  "version": "1.0.0",
+  "description": "Esta es mi aplicacion con NODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  
+  },
+  "keywords": [],
+  "author": "Alely Sainz",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

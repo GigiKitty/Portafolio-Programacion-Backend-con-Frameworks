@@ -1,0 +1,18 @@
+{
+  "name": "fundamentos-nodejs",
+  "version": "0.0.1",
+  "description": "Mi primer proyecto en nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "alely sainz",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
